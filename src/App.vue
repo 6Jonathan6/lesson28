@@ -9,6 +9,9 @@
           :filter-function="applySearchFilter"
         />
       </div>
+      <div class="text-right">
+        <button type="button" class="btn btn-blue">Save Changes</button>
+      </div>
     </div>
   </div>
 </template>
